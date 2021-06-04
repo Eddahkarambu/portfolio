@@ -20,3 +20,13 @@ h3{
   display: flex;
 
 }
+.hobbies{
+  width:100%;
+  display: flex;
+}
+.myself{
+  width:50%;
+}
+.best{
+  width: 50%;
+}
