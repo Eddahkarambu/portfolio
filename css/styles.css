@@ -7,3 +7,16 @@ h3{
   width:40%;
   float:right;
 }
+.music{
+  float:left;
+  margin-right: 50px;
+}
+.paragraph{
+  float:right;
+
+}
+.personal{
+  width: 100%;
+  display: flex;
+
+}
