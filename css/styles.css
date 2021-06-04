@@ -40,3 +40,8 @@ body{
 .likes{
   font-style: italic;
 }
+.name{
+  text-decoration: underline;
+  text-decoration-color: blue;
+  font-style: italic;
+}
