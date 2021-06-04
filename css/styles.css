@@ -30,3 +30,13 @@ h3{
 .best{
   width: 50%;
 }
+.list{
+
+  font-style: italic;
+}
+body{
+  font-size: 20px;
+}
+.likes{
+  font-style: italic;
+}
